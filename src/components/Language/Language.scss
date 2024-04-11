@@ -1,0 +1,19 @@
+.lang {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0.3rem 1rem;
+  gap: 1rem;
+
+  list-style: none;
+
+  &--item {
+    cursor: pointer;
+    color: blue;
+    font-size: 1rem;
+
+    &::first-letter {
+      text-transform: uppercase;
+    }
+  }
+}

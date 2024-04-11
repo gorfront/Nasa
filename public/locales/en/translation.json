@@ -1,0 +1,40 @@
+{
+  "main": {
+    "title": "Browse Our Universe",
+    "navbar": {
+      "Astronomy Photo Of The Day": "Astronomy Photo Of The Day",
+      "Nearby Asteroids": "Nearby Asteroids",
+      "Submit New Planet": "Submit New Planet"
+    },
+    "search": "Search",
+    "nearby": {
+      "title": "Search for Asteroids based on their closest approach date to Earth",
+      "text": "You could select the range maximum for 7 days",
+      "start": "Start Date:",
+      "end": "End Date:",
+      "Name": "Name",
+      "Distance (km)": "Distance (km)",
+      "Absolute Magnitude": "Absolute Magnitude",
+      "Diameter(m)": "Diameter(m)",
+      "Is Potentially Hazardous": "Is Potentially Hazardous",
+      "Yes": "Yes",
+      "No": "No",
+      "error": "Range is bigger then 7"
+    },
+    "submit": {
+      "title": "If you find a new planet, you can add it to our catalog (reactive forms demo)",
+      "planet": "Planet Name",
+      "galaxyName": "Galaxy Name",
+      "diameter": "Diameter (km)",
+      "distance": "Distance (km)",
+      "name": "Your Name",
+      "submit": "Submit",
+      "planetError1": "Planet field is required",
+      "planetError2": "Minimum length is 16 characters",
+      "galaxyNameError": "Galaxy field is required",
+      "distanceError": "Distance field is required",
+      "nameError": "Your Name field is required",
+      "emailError": "Please enter a valid email address"
+    }
+  }
+}

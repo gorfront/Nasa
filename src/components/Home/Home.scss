@@ -1,0 +1,16 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 73.3vh;
+
+  background-image: url("/back.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 1px;
+
+  &--title {
+    color: #f0f8ff;
+    font-size: 5rem;
+  }
+}
